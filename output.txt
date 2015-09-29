@@ -1,0 +1,1031 @@
+1-itemsets:
+	Item: [1], Support: 500116
+	Item: [2], Support: 500516
+	Item: [3], Support: 499583
+	Item: [4], Support: 500560
+	Item: [5], Support: 500769
+	Item: [6], Support: 499984
+	Item: [7], Support: 500959
+	Item: [8], Support: 500423
+	Item: [9], Support: 499872
+	Item: [10], Support: 499194
+2-itemsets:
+	Item: [1, 2], Support: 296779
+	Item: [1, 3], Support: 296134
+	Item: [1, 4], Support: 296773
+	Item: [1, 5], Support: 296900
+	Item: [1, 6], Support: 296378
+	Item: [1, 7], Support: 296912
+	Item: [1, 8], Support: 296899
+	Item: [1, 9], Support: 296224
+	Item: [1, 10], Support: 296089
+	Item: [2, 3], Support: 295927
+	Item: [2, 4], Support: 296943
+	Item: [2, 5], Support: 297169
+	Item: [2, 6], Support: 296317
+	Item: [2, 7], Support: 296665
+	Item: [2, 8], Support: 296812
+	Item: [2, 9], Support: 296494
+	Item: [2, 10], Support: 296470
+	Item: [3, 4], Support: 296547
+	Item: [3, 5], Support: 296472
+	Item: [3, 6], Support: 296005
+	Item: [3, 7], Support: 296901
+	Item: [3, 8], Support: 296460
+	Item: [3, 9], Support: 296142
+	Item: [3, 10], Support: 295925
+	Item: [4, 5], Support: 297144
+	Item: [4, 6], Support: 297033
+	Item: [4, 7], Support: 296883
+	Item: [4, 8], Support: 297034
+	Item: [4, 9], Support: 296925
+	Item: [4, 10], Support: 296666
+	Item: [5, 6], Support: 296877
+	Item: [5, 7], Support: 297087
+	Item: [5, 8], Support: 297192
+	Item: [5, 9], Support: 296878
+	Item: [5, 10], Support: 296423
+	Item: [6, 7], Support: 296847
+	Item: [6, 8], Support: 296033
+	Item: [6, 9], Support: 296119
+	Item: [6, 10], Support: 295884
+	Item: [7, 8], Support: 296892
+	Item: [7, 9], Support: 296434
+	Item: [7, 10], Support: 296609
+	Item: [8, 9], Support: 296884
+	Item: [8, 10], Support: 296331
+	Item: [9, 10], Support: 295611
+3-itemsets:
+	Item: [1, 2, 3], Support: 194468
+	Item: [1, 2, 4], Support: 195028
+	Item: [1, 2, 5], Support: 195147
+	Item: [1, 2, 6], Support: 194706
+	Item: [1, 2, 7], Support: 194885
+	Item: [1, 2, 8], Support: 194907
+	Item: [1, 2, 9], Support: 194774
+	Item: [1, 2, 10], Support: 194586
+	Item: [1, 3, 4], Support: 194474
+	Item: [1, 3, 5], Support: 194698
+	Item: [1, 3, 6], Support: 194339
+	Item: [1, 3, 7], Support: 194690
+	Item: [1, 3, 8], Support: 194685
+	Item: [1, 3, 9], Support: 194226
+	Item: [1, 3, 10], Support: 194167
+	Item: [1, 4, 5], Support: 194943
+	Item: [1, 4, 6], Support: 194942
+	Item: [1, 4, 7], Support: 194938
+	Item: [1, 4, 8], Support: 194812
+	Item: [1, 4, 9], Support: 194853
+	Item: [1, 4, 10], Support: 194804
+	Item: [1, 5, 6], Support: 195008
+	Item: [1, 5, 7], Support: 195053
+	Item: [1, 5, 8], Support: 195139
+	Item: [1, 5, 9], Support: 194729
+	Item: [1, 5, 10], Support: 194704
+	Item: [1, 6, 7], Support: 194749
+	Item: [1, 6, 8], Support: 194478
+	Item: [1, 6, 9], Support: 194370
+	Item: [1, 6, 10], Support: 194295
+	Item: [1, 7, 8], Support: 194907
+	Item: [1, 7, 9], Support: 194614
+	Item: [1, 7, 10], Support: 194652
+	Item: [1, 8, 9], Support: 194964
+	Item: [1, 8, 10], Support: 194711
+	Item: [1, 9, 10], Support: 193932
+	Item: [2, 3, 4], Support: 194624
+	Item: [2, 3, 5], Support: 194572
+	Item: [2, 3, 6], Support: 194032
+	Item: [2, 3, 7], Support: 194433
+	Item: [2, 3, 8], Support: 194510
+	Item: [2, 3, 9], Support: 194297
+	Item: [2, 3, 10], Support: 194304
+	Item: [2, 4, 5], Support: 195383
+	Item: [2, 4, 6], Support: 194867
+	Item: [2, 4, 7], Support: 194876
+	Item: [2, 4, 8], Support: 195057
+	Item: [2, 4, 9], Support: 195019
+	Item: [2, 4, 10], Support: 194972
+	Item: [2, 5, 6], Support: 194850
+	Item: [2, 5, 7], Support: 194846
+	Item: [2, 5, 8], Support: 195082
+	Item: [2, 5, 9], Support: 195181
+	Item: [2, 5, 10], Support: 194971
+	Item: [2, 6, 7], Support: 194458
+	Item: [2, 6, 8], Support: 194512
+	Item: [2, 6, 9], Support: 194213
+	Item: [2, 6, 10], Support: 194163
+	Item: [2, 7, 8], Support: 194649
+	Item: [2, 7, 9], Support: 194351
+	Item: [2, 7, 10], Support: 194785
+	Item: [2, 8, 9], Support: 194851
+	Item: [2, 8, 10], Support: 194717
+	Item: [2, 9, 10], Support: 194210
+	Item: [3, 4, 5], Support: 194942
+	Item: [3, 4, 6], Support: 194839
+	Item: [3, 4, 7], Support: 195129
+	Item: [3, 4, 8], Support: 195004
+	Item: [3, 4, 9], Support: 195033
+	Item: [3, 4, 10], Support: 194719
+	Item: [3, 5, 6], Support: 194389
+	Item: [3, 5, 7], Support: 194975
+	Item: [3, 5, 8], Support: 194708
+	Item: [3, 5, 9], Support: 194684
+	Item: [3, 5, 10], Support: 194397
+	Item: [3, 6, 7], Support: 194605
+	Item: [3, 6, 8], Support: 194311
+	Item: [3, 6, 9], Support: 194405
+	Item: [3, 6, 10], Support: 193948
+	Item: [3, 7, 8], Support: 195128
+	Item: [3, 7, 9], Support: 194600
+	Item: [3, 7, 10], Support: 194737
+	Item: [3, 8, 9], Support: 194621
+	Item: [3, 8, 10], Support: 194489
+	Item: [3, 9, 10], Support: 194003
+	Item: [4, 5, 6], Support: 195331
+	Item: [4, 5, 7], Support: 195243
+	Item: [4, 5, 8], Support: 195287
+	Item: [4, 5, 9], Support: 195307
+	Item: [4, 5, 10], Support: 195256
+	Item: [4, 6, 7], Support: 195182
+	Item: [4, 6, 8], Support: 194698
+	Item: [4, 6, 9], Support: 195112
+	Item: [4, 6, 10], Support: 194778
+	Item: [4, 7, 8], Support: 194910
+	Item: [4, 7, 9], Support: 195039
+	Item: [4, 7, 10], Support: 194965
+	Item: [4, 8, 9], Support: 195324
+	Item: [4, 8, 10], Support: 194865
+	Item: [4, 9, 10], Support: 194568
+	Item: [5, 6, 7], Support: 195132
+	Item: [5, 6, 8], Support: 194863
+	Item: [5, 6, 9], Support: 194983
+	Item: [5, 6, 10], Support: 194429
+	Item: [5, 7, 8], Support: 194806
+	Item: [5, 7, 9], Support: 195014
+	Item: [5, 7, 10], Support: 194904
+	Item: [5, 8, 9], Support: 195281
+	Item: [5, 8, 10], Support: 194806
+	Item: [5, 9, 10], Support: 194552
+	Item: [6, 7, 8], Support: 194750
+	Item: [6, 7, 9], Support: 194367
+	Item: [6, 7, 10], Support: 194745
+	Item: [6, 8, 9], Support: 194565
+	Item: [6, 8, 10], Support: 193977
+	Item: [6, 9, 10], Support: 193891
+	Item: [7, 8, 9], Support: 194794
+	Item: [7, 8, 10], Support: 194678
+	Item: [7, 9, 10], Support: 194377
+	Item: [8, 9, 10], Support: 194845
+4-itemsets:
+	Item: [1, 2, 3, 4], Support: 133455
+	Item: [1, 2, 3, 5], Support: 133519
+	Item: [1, 2, 3, 6], Support: 133232
+	Item: [1, 2, 3, 7], Support: 133334
+	Item: [1, 2, 3, 8], Support: 133540
+	Item: [1, 2, 3, 9], Support: 133357
+	Item: [1, 2, 3, 10], Support: 133190
+	Item: [1, 2, 4, 5], Support: 133906
+	Item: [1, 2, 4, 6], Support: 133793
+	Item: [1, 2, 4, 7], Support: 133777
+	Item: [1, 2, 4, 8], Support: 133783
+	Item: [1, 2, 4, 9], Support: 133911
+	Item: [1, 2, 4, 10], Support: 133696
+	Item: [1, 2, 5, 6], Support: 133729
+	Item: [1, 2, 5, 7], Support: 133692
+	Item: [1, 2, 5, 8], Support: 133831
+	Item: [1, 2, 5, 9], Support: 133916
+	Item: [1, 2, 5, 10], Support: 133814
+	Item: [1, 2, 6, 7], Support: 133445
+	Item: [1, 2, 6, 8], Support: 133523
+	Item: [1, 2, 6, 9], Support: 133371
+	Item: [1, 2, 6, 10], Support: 133239
+	Item: [1, 2, 7, 8], Support: 133528
+	Item: [1, 2, 7, 9], Support: 133486
+	Item: [1, 2, 7, 10], Support: 133611
+	Item: [1, 2, 8, 9], Support: 133853
+	Item: [1, 2, 8, 10], Support: 133660
+	Item: [1, 2, 9, 10], Support: 133127
+	Item: [1, 3, 4, 5], Support: 133507
+	Item: [1, 3, 4, 6], Support: 133526
+	Item: [1, 3, 4, 7], Support: 133609
+	Item: [1, 3, 4, 8], Support: 133541
+	Item: [1, 3, 4, 9], Support: 133578
+	Item: [1, 3, 4, 10], Support: 133375
+	Item: [1, 3, 5, 6], Support: 133449
+	Item: [1, 3, 5, 7], Support: 133742
+	Item: [1, 3, 5, 8], Support: 133575
+	Item: [1, 3, 5, 9], Support: 133433
+	Item: [1, 3, 5, 10], Support: 133375
+	Item: [1, 3, 6, 7], Support: 133344
+	Item: [1, 3, 6, 8], Support: 133319
+	Item: [1, 3, 6, 9], Support: 133216
+	Item: [1, 3, 6, 10], Support: 133025
+	Item: [1, 3, 7, 8], Support: 133735
+	Item: [1, 3, 7, 9], Support: 133351
+	Item: [1, 3, 7, 10], Support: 133382
+	Item: [1, 3, 8, 9], Support: 133441
+	Item: [1, 3, 8, 10], Support: 133449
+	Item: [1, 3, 9, 10], Support: 132925
+	Item: [1, 4, 5, 6], Support: 133822
+	Item: [1, 4, 5, 7], Support: 133812
+	Item: [1, 4, 5, 8], Support: 133675
+	Item: [1, 4, 5, 9], Support: 133866
+	Item: [1, 4, 5, 10], Support: 133789
+	Item: [1, 4, 6, 7], Support: 133910
+	Item: [1, 4, 6, 8], Support: 133550
+	Item: [1, 4, 6, 9], Support: 133797
+	Item: [1, 4, 6, 10], Support: 133712
+	Item: [1, 4, 7, 8], Support: 133713
+	Item: [1, 4, 7, 9], Support: 133827
+	Item: [1, 4, 7, 10], Support: 133763
+	Item: [1, 4, 8, 9], Support: 133898
+	Item: [1, 4, 8, 10], Support: 133692
+	Item: [1, 4, 9, 10], Support: 133342
+	Item: [1, 5, 6, 7], Support: 133848
+	Item: [1, 5, 6, 8], Support: 133811
+	Item: [1, 5, 6, 9], Support: 133656
+	Item: [1, 5, 6, 10], Support: 133437
+	Item: [1, 5, 7, 8], Support: 133682
+	Item: [1, 5, 7, 9], Support: 133729
+	Item: [1, 5, 7, 10], Support: 133687
+	Item: [1, 5, 8, 9], Support: 133955
+	Item: [1, 5, 8, 10], Support: 133770
+	Item: [1, 5, 9, 10], Support: 133277
+	Item: [1, 6, 7, 8], Support: 133447
+	Item: [1, 6, 7, 9], Support: 133276
+	Item: [1, 6, 7, 10], Support: 133385
+	Item: [1, 6, 8, 9], Support: 133549
+	Item: [1, 6, 8, 10], Support: 133274
+	Item: [1, 6, 9, 10], Support: 132802
+	Item: [1, 7, 8, 9], Support: 133689
+	Item: [1, 7, 8, 10], Support: 133612
+	Item: [1, 7, 9, 10], Support: 133207
+	Item: [1, 8, 9, 10], Support: 133617
+	Item: [2, 3, 4, 5], Support: 133735
+	Item: [2, 3, 4, 6], Support: 133431
+	Item: [2, 3, 4, 7], Support: 133666
+	Item: [2, 3, 4, 8], Support: 133663
+	Item: [2, 3, 4, 9], Support: 133785
+	Item: [2, 3, 4, 10], Support: 133529
+	Item: [2, 3, 5, 6], Support: 133135
+	Item: [2, 3, 5, 7], Support: 133461
+	Item: [2, 3, 5, 8], Support: 133501
+	Item: [2, 3, 5, 9], Support: 133677
+	Item: [2, 3, 5, 10], Support: 133306
+	Item: [2, 3, 6, 7], Support: 133035
+	Item: [2, 3, 6, 8], Support: 133214
+	Item: [2, 3, 6, 9], Support: 132925
+	Item: [2, 3, 6, 10], Support: 132784
+	Item: [2, 3, 7, 8], Support: 133578
+	Item: [2, 3, 7, 9], Support: 133121
+	Item: [2, 3, 7, 10], Support: 133419
+	Item: [2, 3, 8, 9], Support: 133339
+	Item: [2, 3, 8, 10], Support: 133410
+	Item: [2, 3, 9, 10], Support: 132986
+	Item: [2, 4, 5, 6], Support: 134040
+	Item: [2, 4, 5, 7], Support: 133894
+	Item: [2, 4, 5, 8], Support: 133997
+	Item: [2, 4, 5, 9], Support: 134235
+	Item: [2, 4, 5, 10], Support: 134106
+	Item: [2, 4, 6, 7], Support: 133669
+	Item: [2, 4, 6, 8], Support: 133520
+	Item: [2, 4, 6, 9], Support: 133723
+	Item: [2, 4, 6, 10], Support: 133522
+	Item: [2, 4, 7, 8], Support: 133707
+	Item: [2, 4, 7, 9], Support: 133537
+	Item: [2, 4, 7, 10], Support: 133761
+	Item: [2, 4, 8, 9], Support: 133968
+	Item: [2, 4, 8, 10], Support: 133778
+	Item: [2, 4, 9, 10], Support: 133485
+	Item: [2, 5, 6, 7], Support: 133568
+	Item: [2, 5, 6, 8], Support: 133642
+	Item: [2, 5, 6, 9], Support: 133705
+	Item: [2, 5, 6, 10], Support: 133399
+	Item: [2, 5, 7, 8], Support: 133433
+	Item: [2, 5, 7, 9], Support: 133670
+	Item: [2, 5, 7, 10], Support: 133642
+	Item: [2, 5, 8, 9], Support: 133975
+	Item: [2, 5, 8, 10], Support: 133803
+	Item: [2, 5, 9, 10], Support: 133602
+	Item: [2, 6, 7, 8], Support: 133482
+	Item: [2, 6, 7, 9], Support: 132895
+	Item: [2, 6, 7, 10], Support: 133334
+	Item: [2, 6, 8, 9], Support: 133378
+	Item: [2, 6, 8, 10], Support: 133132
+	Item: [2, 6, 9, 10], Support: 132822
+	Item: [2, 7, 8, 9], Support: 133374
+	Item: [2, 7, 8, 10], Support: 133540
+	Item: [2, 7, 9, 10], Support: 133051
+	Item: [2, 8, 9, 10], Support: 133535
+	Item: [3, 4, 5, 6], Support: 133686
+	Item: [3, 4, 5, 7], Support: 133951
+	Item: [3, 4, 5, 8], Support: 133785
+	Item: [3, 4, 5, 9], Support: 134021
+	Item: [3, 4, 5, 10], Support: 133764
+	Item: [3, 4, 6, 7], Support: 133854
+	Item: [3, 4, 6, 8], Support: 133682
+	Item: [3, 4, 6, 9], Support: 134046
+	Item: [3, 4, 6, 10], Support: 133453
+	Item: [3, 4, 7, 8], Support: 134088
+	Item: [3, 4, 7, 9], Support: 133967
+	Item: [3, 4, 7, 10], Support: 133914
+	Item: [3, 4, 8, 9], Support: 133997
+	Item: [3, 4, 8, 10], Support: 133604
+	Item: [3, 4, 9, 10], Support: 133490
+	Item: [3, 5, 6, 7], Support: 133582
+	Item: [3, 5, 6, 8], Support: 133276
+	Item: [3, 5, 6, 9], Support: 133504
+	Item: [3, 5, 6, 10], Support: 132970
+	Item: [3, 5, 7, 8], Support: 133710
+	Item: [3, 5, 7, 9], Support: 133733
+	Item: [3, 5, 7, 10], Support: 133612
+	Item: [3, 5, 8, 9], Support: 133530
+	Item: [3, 5, 8, 10], Support: 133399
+	Item: [3, 5, 9, 10], Support: 133254
+	Item: [3, 6, 7, 8], Support: 133696
+	Item: [3, 6, 7, 9], Support: 133186
+	Item: [3, 6, 7, 10], Support: 133374
+	Item: [3, 6, 8, 9], Support: 133417
+	Item: [3, 6, 8, 10], Support: 133083
+	Item: [3, 6, 9, 10], Support: 132800
+	Item: [3, 7, 8, 9], Support: 133672
+	Item: [3, 7, 8, 10], Support: 133696
+	Item: [3, 7, 9, 10], Support: 133317
+	Item: [3, 8, 9, 10], Support: 133465
+	Item: [4, 5, 6, 7], Support: 134244
+	Item: [4, 5, 6, 8], Support: 133783
+	Item: [4, 5, 6, 9], Support: 134215
+	Item: [4, 5, 6, 10], Support: 133868
+	Item: [4, 5, 7, 8], Support: 133778
+	Item: [4, 5, 7, 9], Support: 134146
+	Item: [4, 5, 7, 10], Support: 134083
+	Item: [4, 5, 8, 9], Support: 134271
+	Item: [4, 5, 8, 10], Support: 134010
+	Item: [4, 5, 9, 10], Support: 133947
+	Item: [4, 6, 7, 8], Support: 133719
+	Item: [4, 6, 7, 9], Support: 133807
+	Item: [4, 6, 7, 10], Support: 133942
+	Item: [4, 6, 8, 9], Support: 133850
+	Item: [4, 6, 8, 10], Support: 133395
+	Item: [4, 6, 9, 10], Support: 133461
+	Item: [4, 7, 8, 9], Support: 133994
+	Item: [4, 7, 8, 10], Support: 133696
+	Item: [4, 7, 9, 10], Support: 133587
+	Item: [4, 8, 9, 10], Support: 133852
+	Item: [5, 6, 7, 8], Support: 133697
+	Item: [5, 6, 7, 9], Support: 133835
+	Item: [5, 6, 7, 10], Support: 133634
+	Item: [5, 6, 8, 9], Support: 134030
+	Item: [5, 6, 8, 10], Support: 133360
+	Item: [5, 6, 9, 10], Support: 133393
+	Item: [5, 7, 8, 9], Support: 133775
+	Item: [5, 7, 8, 10], Support: 133589
+	Item: [5, 7, 9, 10], Support: 133624
+	Item: [5, 8, 9, 10], Support: 133907
+	Item: [6, 7, 8, 9], Support: 133502
+	Item: [6, 7, 8, 10], Support: 133427
+	Item: [6, 7, 9, 10], Support: 133155
+	Item: [6, 8, 9, 10], Support: 133241
+	Item: [7, 8, 9, 10], Support: 133580
+5-itemsets:
+	Item: [1, 2, 3, 4, 5], Support: 92732
+	Item: [1, 2, 3, 4, 6], Support: 92663
+	Item: [1, 2, 3, 4, 7], Support: 92691
+	Item: [1, 2, 3, 4, 8], Support: 92837
+	Item: [1, 2, 3, 4, 9], Support: 92962
+	Item: [1, 2, 3, 4, 10], Support: 92603
+	Item: [1, 2, 3, 5, 6], Support: 92534
+	Item: [1, 2, 3, 5, 7], Support: 92696
+	Item: [1, 2, 3, 5, 8], Support: 92785
+	Item: [1, 2, 3, 5, 9], Support: 92793
+	Item: [1, 2, 3, 5, 10], Support: 92606
+	Item: [1, 2, 3, 6, 7], Support: 92327
+	Item: [1, 2, 3, 6, 8], Support: 92591
+	Item: [1, 2, 3, 6, 9], Support: 92347
+	Item: [1, 2, 3, 6, 10], Support: 92188
+	Item: [1, 2, 3, 7, 8], Support: 92749
+	Item: [1, 2, 3, 7, 9], Support: 92460
+	Item: [1, 2, 3, 7, 10], Support: 92574
+	Item: [1, 2, 3, 8, 9], Support: 92738
+	Item: [1, 2, 3, 8, 10], Support: 92736
+	Item: [1, 2, 3, 9, 10], Support: 92317
+	Item: [1, 2, 4, 5, 6], Support: 92992
+	Item: [1, 2, 4, 5, 7], Support: 92948
+	Item: [1, 2, 4, 5, 8], Support: 92950
+	Item: [1, 2, 4, 5, 9], Support: 93258
+	Item: [1, 2, 4, 5, 10], Support: 93051
+	Item: [1, 2, 4, 6, 7], Support: 92898
+	Item: [1, 2, 4, 6, 8], Support: 92888
+	Item: [1, 2, 4, 6, 9], Support: 93044
+	Item: [1, 2, 4, 6, 10], Support: 92850
+	Item: [1, 2, 4, 7, 8], Support: 92946
+	Item: [1, 2, 4, 7, 9], Support: 92904
+	Item: [1, 2, 4, 7, 10], Support: 92976
+	Item: [1, 2, 4, 8, 9], Support: 93209
+	Item: [1, 2, 4, 8, 10], Support: 93012
+	Item: [1, 2, 4, 9, 10], Support: 92710
+	Item: [1, 2, 5, 6, 7], Support: 92761
+	Item: [1, 2, 5, 6, 8], Support: 92948
+	Item: [1, 2, 5, 6, 9], Support: 92882
+	Item: [1, 2, 5, 6, 10], Support: 92705
+	Item: [1, 2, 5, 7, 8], Support: 92747
+	Item: [1, 2, 5, 7, 9], Support: 92932
+	Item: [1, 2, 5, 7, 10], Support: 92914
+	Item: [1, 2, 5, 8, 9], Support: 93179
+	Item: [1, 2, 5, 8, 10], Support: 93080
+	Item: [1, 2, 5, 9, 10], Support: 92773
+	Item: [1, 2, 6, 7, 8], Support: 92650
+	Item: [1, 2, 6, 7, 9], Support: 92412
+	Item: [1, 2, 6, 7, 10], Support: 92559
+	Item: [1, 2, 6, 8, 9], Support: 92804
+	Item: [1, 2, 6, 8, 10], Support: 92640
+	Item: [1, 2, 6, 9, 10], Support: 92189
+	Item: [1, 2, 7, 8, 9], Support: 92818
+	Item: [1, 2, 7, 8, 10], Support: 92889
+	Item: [1, 2, 7, 9, 10], Support: 92465
+	Item: [1, 2, 8, 9, 10], Support: 92864
+	Item: [1, 3, 4, 5, 6], Support: 92771
+	Item: [1, 3, 4, 5, 7], Support: 92941
+	Item: [1, 3, 4, 5, 8], Support: 92722
+	Item: [1, 3, 4, 5, 9], Support: 92961
+	Item: [1, 3, 4, 5, 10], Support: 92724
+	Item: [1, 3, 4, 6, 7], Support: 92881
+	Item: [1, 3, 4, 6, 8], Support: 92756
+	Item: [1, 3, 4, 6, 9], Support: 92964
+	Item: [1, 3, 4, 6, 10], Support: 92629
+	Item: [1, 3, 4, 7, 8], Support: 92985
+	Item: [1, 3, 4, 7, 9], Support: 92917
+	Item: [1, 3, 4, 7, 10], Support: 92842
+	Item: [1, 3, 4, 8, 9], Support: 92982
+	Item: [1, 3, 4, 8, 10], Support: 92749
+	Item: [1, 3, 4, 9, 10], Support: 92589
+	Item: [1, 3, 5, 6, 7], Support: 92785
+	Item: [1, 3, 5, 6, 8], Support: 92703
+	Item: [1, 3, 5, 6, 9], Support: 92683
+	Item: [1, 3, 5, 6, 10], Support: 92408
+	Item: [1, 3, 5, 7, 8], Support: 92858
+	Item: [1, 3, 5, 7, 9], Support: 92845
+	Item: [1, 3, 5, 7, 10], Support: 92781
+	Item: [1, 3, 5, 8, 9], Support: 92761
+	Item: [1, 3, 5, 8, 10], Support: 92730
+	Item: [1, 3, 5, 9, 10], Support: 92444
+	Item: [1, 3, 6, 7, 8], Support: 92715
+	Item: [1, 3, 6, 7, 9], Support: 92376
+	Item: [1, 3, 6, 7, 10], Support: 92478
+	Item: [1, 3, 6, 8, 9], Support: 92601
+	Item: [1, 3, 6, 8, 10], Support: 92556
+	Item: [1, 3, 6, 9, 10], Support: 92112
+	Item: [1, 3, 7, 8, 9], Support: 92774
+	Item: [1, 3, 7, 8, 10], Support: 92896
+	Item: [1, 3, 7, 9, 10], Support: 92436
+	Item: [1, 3, 8, 9, 10], Support: 92636
+	Item: [1, 4, 5, 6, 7], Support: 93146
+	Item: [1, 4, 5, 6, 8], Support: 92844
+	Item: [1, 4, 5, 6, 9], Support: 93140
+	Item: [1, 4, 5, 6, 10], Support: 92922
+	Item: [1, 4, 5, 7, 8], Support: 92814
+	Item: [1, 4, 5, 7, 9], Support: 93170
+	Item: [1, 4, 5, 7, 10], Support: 93072
+	Item: [1, 4, 5, 8, 9], Support: 93170
+	Item: [1, 4, 5, 8, 10], Support: 92976
+	Item: [1, 4, 5, 9, 10], Support: 92864
+	Item: [1, 4, 6, 7, 8], Support: 92904
+	Item: [1, 4, 6, 7, 9], Support: 92984
+	Item: [1, 4, 6, 7, 10], Support: 93043
+	Item: [1, 4, 6, 8, 9], Support: 93002
+	Item: [1, 4, 6, 8, 10], Support: 92807
+	Item: [1, 4, 6, 9, 10], Support: 92624
+	Item: [1, 4, 7, 8, 9], Support: 93164
+	Item: [1, 4, 7, 8, 10], Support: 92952
+	Item: [1, 4, 7, 9, 10], Support: 92734
+	Item: [1, 4, 8, 9, 10], Support: 92980
+	Item: [1, 5, 6, 7, 8], Support: 92887
+	Item: [1, 5, 6, 7, 9], Support: 92944
+	Item: [1, 5, 6, 7, 10], Support: 92738
+	Item: [1, 5, 6, 8, 9], Support: 93137
+	Item: [1, 5, 6, 8, 10], Support: 92800
+	Item: [1, 5, 6, 9, 10], Support: 92482
+	Item: [1, 5, 7, 8, 9], Support: 92979
+	Item: [1, 5, 7, 8, 10], Support: 92893
+	Item: [1, 5, 7, 9, 10], Support: 92736
+	Item: [1, 5, 8, 9, 10], Support: 93039
+	Item: [1, 6, 7, 8, 9], Support: 92676
+	Item: [1, 6, 7, 8, 10], Support: 92675
+	Item: [1, 6, 7, 9, 10], Support: 92260
+	Item: [1, 6, 8, 9, 10], Support: 92579
+	Item: [1, 7, 8, 9, 10], Support: 92810
+	Item: [2, 3, 4, 5, 6], Support: 92735
+	Item: [2, 3, 4, 5, 7], Support: 92941
+	Item: [2, 3, 4, 5, 8], Support: 92889
+	Item: [2, 3, 4, 5, 9], Support: 93236
+	Item: [2, 3, 4, 5, 10], Support: 92929
+	Item: [2, 3, 4, 6, 7], Support: 92682
+	Item: [2, 3, 4, 6, 8], Support: 92711
+	Item: [2, 3, 4, 6, 9], Support: 92897
+	Item: [2, 3, 4, 6, 10], Support: 92520
+	Item: [2, 3, 4, 7, 8], Support: 93047
+	Item: [2, 3, 4, 7, 9], Support: 92820
+	Item: [2, 3, 4, 7, 10], Support: 92927
+	Item: [2, 3, 4, 8, 9], Support: 93033
+	Item: [2, 3, 4, 8, 10], Support: 92835
+	Item: [2, 3, 4, 9, 10], Support: 92714
+	Item: [2, 3, 5, 6, 7], Support: 92481
+	Item: [2, 3, 5, 6, 8], Support: 92455
+	Item: [2, 3, 5, 6, 9], Support: 92495
+	Item: [2, 3, 5, 6, 10], Support: 92167
+	Item: [2, 3, 5, 7, 8], Support: 92726
+	Item: [2, 3, 5, 7, 9], Support: 92770
+	Item: [2, 3, 5, 7, 10], Support: 92655
+	Item: [2, 3, 5, 8, 9], Support: 92775
+	Item: [2, 3, 5, 8, 10], Support: 92693
+	Item: [2, 3, 5, 9, 10], Support: 92600
+	Item: [2, 3, 6, 7, 8], Support: 92745
+	Item: [2, 3, 6, 7, 9], Support: 91998
+	Item: [2, 3, 6, 7, 10], Support: 92316
+	Item: [2, 3, 6, 8, 9], Support: 92385
+	Item: [2, 3, 6, 8, 10], Support: 92359
+	Item: [2, 3, 6, 9, 10], Support: 91904
+	Item: [2, 3, 7, 8, 9], Support: 92607
+	Item: [2, 3, 7, 8, 10], Support: 92833
+	Item: [2, 3, 7, 9, 10], Support: 92283
+	Item: [2, 3, 8, 9, 10], Support: 92571
+	Item: [2, 4, 5, 6, 7], Support: 93057
+	Item: [2, 4, 5, 6, 8], Support: 92932
+	Item: [2, 4, 5, 6, 9], Support: 93282
+	Item: [2, 4, 5, 6, 10], Support: 93011
+	Item: [2, 4, 5, 7, 8], Support: 92863
+	Item: [2, 4, 5, 7, 9], Support: 93160
+	Item: [2, 4, 5, 7, 10], Support: 93109
+	Item: [2, 4, 5, 8, 9], Support: 93375
+	Item: [2, 4, 5, 8, 10], Support: 93138
+	Item: [2, 4, 5, 9, 10], Support: 93135
+	Item: [2, 4, 6, 7, 8], Support: 92837
+	Item: [2, 4, 6, 7, 9], Support: 92653
+	Item: [2, 4, 6, 7, 10], Support: 92913
+	Item: [2, 4, 6, 8, 9], Support: 92942
+	Item: [2, 4, 6, 8, 10], Support: 92678
+	Item: [2, 4, 6, 9, 10], Support: 92598
+	Item: [2, 4, 7, 8, 9], Support: 92990
+	Item: [2, 4, 7, 8, 10], Support: 92942
+	Item: [2, 4, 7, 9, 10], Support: 92606
+	Item: [2, 4, 8, 9, 10], Support: 92963
+	Item: [2, 5, 6, 7, 8], Support: 92752
+	Item: [2, 5, 6, 7, 9], Support: 92716
+	Item: [2, 5, 6, 7, 10], Support: 92680
+	Item: [2, 5, 6, 8, 9], Support: 93002
+	Item: [2, 5, 6, 8, 10], Support: 92710
+	Item: [2, 5, 6, 9, 10], Support: 92555
+	Item: [2, 5, 7, 8, 9], Support: 92840
+	Item: [2, 5, 7, 8, 10], Support: 92759
+	Item: [2, 5, 7, 9, 10], Support: 92649
+	Item: [2, 5, 8, 9, 10], Support: 93019
+	Item: [2, 6, 7, 8, 9], Support: 92510
+	Item: [2, 6, 7, 8, 10], Support: 92681
+	Item: [2, 6, 7, 9, 10], Support: 92110
+	Item: [2, 6, 8, 9, 10], Support: 92447
+	Item: [2, 7, 8, 9, 10], Support: 92623
+	Item: [3, 4, 5, 6, 7], Support: 93088
+	Item: [3, 4, 5, 6, 8], Support: 92729
+	Item: [3, 4, 5, 6, 9], Support: 93238
+	Item: [3, 4, 5, 6, 10], Support: 92686
+	Item: [3, 4, 5, 7, 8], Support: 93068
+	Item: [3, 4, 5, 7, 9], Support: 93284
+	Item: [3, 4, 5, 7, 10], Support: 93146
+	Item: [3, 4, 5, 8, 9], Support: 93200
+	Item: [3, 4, 5, 8, 10], Support: 92892
+	Item: [3, 4, 5, 9, 10], Support: 92996
+	Item: [3, 4, 6, 7, 8], Support: 93132
+	Item: [3, 4, 6, 7, 9], Support: 93027
+	Item: [3, 4, 6, 7, 10], Support: 92979
+	Item: [3, 4, 6, 8, 9], Support: 93159
+	Item: [3, 4, 6, 8, 10], Support: 92703
+	Item: [3, 4, 6, 9, 10], Support: 92691
+	Item: [3, 4, 7, 8, 9], Support: 93266
+	Item: [3, 4, 7, 8, 10], Support: 93121
+	Item: [3, 4, 7, 9, 10], Support: 92921
+	Item: [3, 4, 8, 9, 10], Support: 92941
+	Item: [3, 5, 6, 7, 8], Support: 92777
+	Item: [3, 5, 6, 7, 9], Support: 92753
+	Item: [3, 5, 6, 7, 10], Support: 92582
+	Item: [3, 5, 6, 8, 9], Support: 92776
+	Item: [3, 5, 6, 8, 10], Support: 92396
+	Item: [3, 5, 6, 9, 10], Support: 92318
+	Item: [3, 5, 7, 8, 9], Support: 92862
+	Item: [3, 5, 7, 8, 10], Support: 92810
+	Item: [3, 5, 7, 9, 10], Support: 92740
+	Item: [3, 5, 8, 9, 10], Support: 92695
+	Item: [3, 6, 7, 8, 9], Support: 92717
+	Item: [3, 6, 7, 8, 10], Support: 92812
+	Item: [3, 6, 7, 9, 10], Support: 92278
+	Item: [3, 6, 8, 9, 10], Support: 92432
+	Item: [3, 7, 8, 9, 10], Support: 92803
+	Item: [4, 5, 6, 7, 8], Support: 93008
+	Item: [4, 5, 6, 7, 9], Support: 93386
+	Item: [4, 5, 6, 7, 10], Support: 93212
+	Item: [4, 5, 6, 8, 9], Support: 93347
+	Item: [4, 5, 6, 8, 10], Support: 92863
+	Item: [4, 5, 6, 9, 10], Support: 93085
+	Item: [4, 5, 7, 8, 9], Support: 93269
+	Item: [4, 5, 7, 8, 10], Support: 93043
+	Item: [4, 5, 7, 9, 10], Support: 93184
+	Item: [4, 5, 8, 9, 10], Support: 93324
+	Item: [4, 6, 7, 8, 9], Support: 93050
+	Item: [4, 6, 7, 8, 10], Support: 92925
+	Item: [4, 6, 7, 9, 10], Support: 92855
+	Item: [4, 6, 8, 9, 10], Support: 92810
+	Item: [4, 7, 8, 9, 10], Support: 93029
+	Item: [5, 6, 7, 8, 9], Support: 93096
+	Item: [5, 6, 7, 8, 10], Support: 92734
+	Item: [5, 6, 7, 9, 10], Support: 92746
+	Item: [5, 6, 8, 9, 10], Support: 92874
+	Item: [5, 7, 8, 9, 10], Support: 92978
+	Item: [6, 7, 8, 9, 10], Support: 92626
+6-itemsets:
+	Item: [1, 2, 3, 4, 5, 6], Support: 63488
+	Item: [1, 2, 3, 4, 5, 7], Support: 63613
+	Item: [1, 2, 3, 4, 5, 8], Support: 63619
+	Item: [1, 2, 3, 4, 5, 9], Support: 63902
+	Item: [1, 2, 3, 4, 5, 10], Support: 63575
+	Item: [1, 2, 3, 4, 6, 7], Support: 63458
+	Item: [1, 2, 3, 4, 6, 8], Support: 63615
+	Item: [1, 2, 3, 4, 6, 9], Support: 63728
+	Item: [1, 2, 3, 4, 6, 10], Support: 63379
+	Item: [1, 2, 3, 4, 7, 8], Support: 63777
+	Item: [1, 2, 3, 4, 7, 9], Support: 63601
+	Item: [1, 2, 3, 4, 7, 10], Support: 63607
+	Item: [1, 2, 3, 4, 8, 9], Support: 63895
+	Item: [1, 2, 3, 4, 8, 10], Support: 63698
+	Item: [1, 2, 3, 4, 9, 10], Support: 63519
+	Item: [1, 2, 3, 5, 6, 7], Support: 63339
+	Item: [1, 2, 3, 5, 6, 8], Support: 63497
+	Item: [1, 2, 3, 5, 6, 9], Support: 63389
+	Item: [1, 2, 3, 5, 6, 10], Support: 63189
+	Item: [1, 2, 3, 5, 7, 8], Support: 63593
+	Item: [1, 2, 3, 5, 7, 9], Support: 63594
+	Item: [1, 2, 3, 5, 7, 10], Support: 63533
+	Item: [1, 2, 3, 5, 8, 9], Support: 63664
+	Item: [1, 2, 3, 5, 8, 10], Support: 63665
+	Item: [1, 2, 3, 5, 9, 10], Support: 63437
+	Item: [1, 2, 3, 6, 7, 8], Support: 63497
+	Item: [1, 2, 3, 6, 7, 9], Support: 63019
+	Item: [1, 2, 3, 6, 7, 10], Support: 63171
+	Item: [1, 2, 3, 6, 8, 9], Support: 63389
+	Item: [1, 2, 3, 6, 8, 10], Support: 63408
+	Item: [1, 2, 3, 6, 9, 10], Support: 62912
+	Item: [1, 2, 3, 7, 8, 9], Support: 63553
+	Item: [1, 2, 3, 7, 8, 10], Support: 63696
+	Item: [1, 2, 3, 7, 9, 10], Support: 63232
+	Item: [1, 2, 3, 8, 9, 10], Support: 63530
+	Item: [1, 2, 4, 5, 6, 7], Support: 63739
+	Item: [1, 2, 4, 5, 6, 8], Support: 63725
+	Item: [1, 2, 4, 5, 6, 9], Support: 63994
+	Item: [1, 2, 4, 5, 6, 10], Support: 63735
+	Item: [1, 2, 4, 5, 7, 8], Support: 63675
+	Item: [1, 2, 4, 5, 7, 9], Support: 63945
+	Item: [1, 2, 4, 5, 7, 10], Support: 63854
+	Item: [1, 2, 4, 5, 8, 9], Support: 64095
+	Item: [1, 2, 4, 5, 8, 10], Support: 63878
+	Item: [1, 2, 4, 5, 9, 10], Support: 63841
+	Item: [1, 2, 4, 6, 7, 8], Support: 63757
+	Item: [1, 2, 4, 6, 7, 9], Support: 63655
+	Item: [1, 2, 4, 6, 7, 10], Support: 63771
+	Item: [1, 2, 4, 6, 8, 9], Support: 63932
+	Item: [1, 2, 4, 6, 8, 10], Support: 63726
+	Item: [1, 2, 4, 6, 9, 10], Support: 63530
+	Item: [1, 2, 4, 7, 8, 9], Support: 63965
+	Item: [1, 2, 4, 7, 8, 10], Support: 63890
+	Item: [1, 2, 4, 7, 9, 10], Support: 63581
+	Item: [1, 2, 4, 8, 9, 10], Support: 63897
+	Item: [1, 2, 5, 6, 7, 8], Support: 63625
+	Item: [1, 2, 5, 6, 7, 9], Support: 63614
+	Item: [1, 2, 5, 6, 7, 10], Support: 63513
+	Item: [1, 2, 5, 6, 8, 9], Support: 63885
+	Item: [1, 2, 5, 6, 8, 10], Support: 63729
+	Item: [1, 2, 5, 6, 9, 10], Support: 63406
+	Item: [1, 2, 5, 7, 8, 9], Support: 63784
+	Item: [1, 2, 5, 7, 8, 10], Support: 63776
+	Item: [1, 2, 5, 7, 9, 10], Support: 63618
+	Item: [1, 2, 5, 8, 9, 10], Support: 63935
+	Item: [1, 2, 6, 7, 8, 9], Support: 63489
+	Item: [1, 2, 6, 7, 8, 10], Support: 63605
+	Item: [1, 2, 6, 7, 9, 10], Support: 63112
+	Item: [1, 2, 6, 8, 9, 10], Support: 63483
+	Item: [1, 2, 7, 8, 9, 10], Support: 63649
+	Item: [1, 3, 4, 5, 6, 7], Support: 63783
+	Item: [1, 3, 4, 5, 6, 8], Support: 63556
+	Item: [1, 3, 4, 5, 6, 9], Support: 63884
+	Item: [1, 3, 4, 5, 6, 10], Support: 63492
+	Item: [1, 3, 4, 5, 7, 8], Support: 63755
+	Item: [1, 3, 4, 5, 7, 9], Support: 63931
+	Item: [1, 3, 4, 5, 7, 10], Support: 63784
+	Item: [1, 3, 4, 5, 8, 9], Support: 63839
+	Item: [1, 3, 4, 5, 8, 10], Support: 63608
+	Item: [1, 3, 4, 5, 9, 10], Support: 63628
+	Item: [1, 3, 4, 6, 7, 8], Support: 63799
+	Item: [1, 3, 4, 6, 7, 9], Support: 63698
+	Item: [1, 3, 4, 6, 7, 10], Support: 63664
+	Item: [1, 3, 4, 6, 8, 9], Support: 63837
+	Item: [1, 3, 4, 6, 8, 10], Support: 63589
+	Item: [1, 3, 4, 6, 9, 10], Support: 63458
+	Item: [1, 3, 4, 7, 8, 9], Support: 63920
+	Item: [1, 3, 4, 7, 8, 10], Support: 63831
+	Item: [1, 3, 4, 7, 9, 10], Support: 63580
+	Item: [1, 3, 4, 8, 9, 10], Support: 63688
+	Item: [1, 3, 5, 6, 7, 8], Support: 63625
+	Item: [1, 3, 5, 6, 7, 9], Support: 63542
+	Item: [1, 3, 5, 6, 7, 10], Support: 63421
+	Item: [1, 3, 5, 6, 8, 9], Support: 63638
+	Item: [1, 3, 5, 6, 8, 10], Support: 63481
+	Item: [1, 3, 5, 6, 9, 10], Support: 63221
+	Item: [1, 3, 5, 7, 8, 9], Support: 63674
+	Item: [1, 3, 5, 7, 8, 10], Support: 63711
+	Item: [1, 3, 5, 7, 9, 10], Support: 63501
+	Item: [1, 3, 5, 8, 9, 10], Support: 63582
+	Item: [1, 3, 6, 7, 8, 9], Support: 63437
+	Item: [1, 3, 6, 7, 8, 10], Support: 63626
+	Item: [1, 3, 6, 7, 9, 10], Support: 63084
+	Item: [1, 3, 6, 8, 9, 10], Support: 63377
+	Item: [1, 3, 7, 8, 9, 10], Support: 63594
+	Item: [1, 4, 5, 6, 7, 8], Support: 63741
+	Item: [1, 4, 5, 6, 7, 9], Support: 64020
+	Item: [1, 4, 5, 6, 7, 10], Support: 63858
+	Item: [1, 4, 5, 6, 8, 9], Support: 64000
+	Item: [1, 4, 5, 6, 8, 10], Support: 63714
+	Item: [1, 4, 5, 6, 9, 10], Support: 63723
+	Item: [1, 4, 5, 7, 8, 9], Support: 63981
+	Item: [1, 4, 5, 7, 8, 10], Support: 63807
+	Item: [1, 4, 5, 7, 9, 10], Support: 63865
+	Item: [1, 4, 5, 8, 9, 10], Support: 63965
+	Item: [1, 4, 6, 7, 8, 9], Support: 63874
+	Item: [1, 4, 6, 7, 8, 10], Support: 63819
+	Item: [1, 4, 6, 7, 9, 10], Support: 63607
+	Item: [1, 4, 6, 8, 9, 10], Support: 63724
+	Item: [1, 4, 7, 8, 9, 10], Support: 63851
+	Item: [1, 5, 6, 7, 8, 9], Support: 63852
+	Item: [1, 5, 6, 7, 8, 10], Support: 63659
+	Item: [1, 5, 6, 7, 9, 10], Support: 63485
+	Item: [1, 5, 6, 8, 9, 10], Support: 63748
+	Item: [1, 5, 7, 8, 9, 10], Support: 63798
+	Item: [1, 6, 7, 8, 9, 10], Support: 63454
+	Item: [2, 3, 4, 5, 6, 7], Support: 63599
+	Item: [2, 3, 4, 5, 6, 8], Support: 63479
+	Item: [2, 3, 4, 5, 6, 9], Support: 63835
+	Item: [2, 3, 4, 5, 6, 10], Support: 63446
+	Item: [2, 3, 4, 5, 7, 8], Support: 63741
+	Item: [2, 3, 4, 5, 7, 9], Support: 63940
+	Item: [2, 3, 4, 5, 7, 10], Support: 63821
+	Item: [2, 3, 4, 5, 8, 9], Support: 63980
+	Item: [2, 3, 4, 5, 8, 10], Support: 63725
+	Item: [2, 3, 4, 5, 9, 10], Support: 63851
+	Item: [2, 3, 4, 6, 7, 8], Support: 63786
+	Item: [2, 3, 4, 6, 7, 9], Support: 63452
+	Item: [2, 3, 4, 6, 7, 10], Support: 63567
+	Item: [2, 3, 4, 6, 8, 9], Support: 63750
+	Item: [2, 3, 4, 6, 8, 10], Support: 63534
+	Item: [2, 3, 4, 6, 9, 10], Support: 63383
+	Item: [2, 3, 4, 7, 8, 9], Support: 63863
+	Item: [2, 3, 4, 7, 8, 10], Support: 63877
+	Item: [2, 3, 4, 7, 9, 10], Support: 63557
+	Item: [2, 3, 4, 8, 9, 10], Support: 63717
+	Item: [2, 3, 5, 6, 7, 8], Support: 63523
+	Item: [2, 3, 5, 6, 7, 9], Support: 63297
+	Item: [2, 3, 5, 6, 7, 10], Support: 63257
+	Item: [2, 3, 5, 6, 8, 9], Support: 63410
+	Item: [2, 3, 5, 6, 8, 10], Support: 63283
+	Item: [2, 3, 5, 6, 9, 10], Support: 63082
+	Item: [2, 3, 5, 7, 8, 9], Support: 63609
+	Item: [2, 3, 5, 7, 8, 10], Support: 63597
+	Item: [2, 3, 5, 7, 9, 10], Support: 63484
+	Item: [2, 3, 5, 8, 9, 10], Support: 63581
+	Item: [2, 3, 6, 7, 8, 9], Support: 63326
+	Item: [2, 3, 6, 7, 8, 10], Support: 63595
+	Item: [2, 3, 6, 7, 9, 10], Support: 62858
+	Item: [2, 3, 6, 8, 9, 10], Support: 63165
+	Item: [2, 3, 7, 8, 9, 10], Support: 63516
+	Item: [2, 4, 5, 6, 7, 8], Support: 63696
+	Item: [2, 4, 5, 6, 7, 9], Support: 63898
+	Item: [2, 4, 5, 6, 7, 10], Support: 63821
+	Item: [2, 4, 5, 6, 8, 9], Support: 64045
+	Item: [2, 4, 5, 6, 8, 10], Support: 63726
+	Item: [2, 4, 5, 6, 9, 10], Support: 63811
+	Item: [2, 4, 5, 7, 8, 9], Support: 63976
+	Item: [2, 4, 5, 7, 8, 10], Support: 63785
+	Item: [2, 4, 5, 7, 9, 10], Support: 63829
+	Item: [2, 4, 5, 8, 9, 10], Support: 64052
+	Item: [2, 4, 6, 7, 8, 9], Support: 63711
+	Item: [2, 4, 6, 7, 8, 10], Support: 63775
+	Item: [2, 4, 6, 7, 9, 10], Support: 63462
+	Item: [2, 4, 6, 8, 9, 10], Support: 63639
+	Item: [2, 4, 7, 8, 9, 10], Support: 63762
+	Item: [2, 5, 6, 7, 8, 9], Support: 63717
+	Item: [2, 5, 6, 7, 8, 10], Support: 63583
+	Item: [2, 5, 6, 7, 9, 10], Support: 63371
+	Item: [2, 5, 6, 8, 9, 10], Support: 63643
+	Item: [2, 5, 7, 8, 9, 10], Support: 63690
+	Item: [2, 6, 7, 8, 9, 10], Support: 63389
+	Item: [3, 4, 5, 6, 7, 8], Support: 63775
+	Item: [3, 4, 5, 6, 7, 9], Support: 64019
+	Item: [3, 4, 5, 6, 7, 10], Support: 63793
+	Item: [3, 4, 5, 6, 8, 9], Support: 63964
+	Item: [3, 4, 5, 6, 8, 10], Support: 63514
+	Item: [3, 4, 5, 6, 9, 10], Support: 63695
+	Item: [3, 4, 5, 7, 8, 9], Support: 64043
+	Item: [3, 4, 5, 7, 8, 10], Support: 63846
+	Item: [3, 4, 5, 7, 9, 10], Support: 63947
+	Item: [3, 4, 5, 8, 9, 10], Support: 63871
+	Item: [3, 4, 6, 7, 8, 9], Support: 63965
+	Item: [3, 4, 6, 7, 8, 10], Support: 63910
+	Item: [3, 4, 6, 7, 9, 10], Support: 63653
+	Item: [3, 4, 6, 8, 9, 10], Support: 63685
+	Item: [3, 4, 7, 8, 9, 10], Support: 63895
+	Item: [3, 5, 6, 7, 8, 9], Support: 63689
+	Item: [3, 5, 6, 7, 8, 10], Support: 63548
+	Item: [3, 5, 6, 7, 9, 10], Support: 63362
+	Item: [3, 5, 6, 8, 9, 10], Support: 63396
+	Item: [3, 5, 7, 8, 9, 10], Support: 63673
+	Item: [3, 6, 7, 8, 9, 10], Support: 63468
+	Item: [4, 5, 6, 7, 8, 9], Support: 64098
+	Item: [4, 5, 6, 7, 8, 10], Support: 63799
+	Item: [4, 5, 6, 7, 9, 10], Support: 63998
+	Item: [4, 5, 6, 8, 9, 10], Support: 63940
+	Item: [4, 5, 7, 8, 9, 10], Support: 64065
+	Item: [4, 6, 7, 8, 9, 10], Support: 63799
+	Item: [5, 6, 7, 8, 9, 10], Support: 63740
+7-itemsets:
+	Item: [1, 2, 3, 4, 5, 6, 7], Support: 41630
+	Item: [1, 2, 3, 4, 5, 6, 8], Support: 41649
+	Item: [1, 2, 3, 4, 5, 6, 9], Support: 41880
+	Item: [1, 2, 3, 4, 5, 6, 10], Support: 41533
+	Item: [1, 2, 3, 4, 5, 7, 8], Support: 41810
+	Item: [1, 2, 3, 4, 5, 7, 9], Support: 41930
+	Item: [1, 2, 3, 4, 5, 7, 10], Support: 41792
+	Item: [1, 2, 3, 4, 5, 8, 9], Support: 42003
+	Item: [1, 2, 3, 4, 5, 8, 10], Support: 41806
+	Item: [1, 2, 3, 4, 5, 9, 10], Support: 41825
+	Item: [1, 2, 3, 4, 6, 7, 8], Support: 41846
+	Item: [1, 2, 3, 4, 6, 7, 9], Support: 41592
+	Item: [1, 2, 3, 4, 6, 7, 10], Support: 41617
+	Item: [1, 2, 3, 4, 6, 8, 9], Support: 41932
+	Item: [1, 2, 3, 4, 6, 8, 10], Support: 41737
+	Item: [1, 2, 3, 4, 6, 9, 10], Support: 41522
+	Item: [1, 2, 3, 4, 7, 8, 9], Support: 41984
+	Item: [1, 2, 3, 4, 7, 8, 10], Support: 41959
+	Item: [1, 2, 3, 4, 7, 9, 10], Support: 41638
+	Item: [1, 2, 3, 4, 8, 9, 10], Support: 41880
+	Item: [1, 2, 3, 5, 6, 7, 8], Support: 41644
+	Item: [1, 2, 3, 5, 6, 7, 9], Support: 41437
+	Item: [1, 2, 3, 5, 6, 7, 10], Support: 41390
+	Item: [1, 2, 3, 5, 6, 8, 9], Support: 41628
+	Item: [1, 2, 3, 5, 6, 8, 10], Support: 41594
+	Item: [1, 2, 3, 5, 6, 9, 10], Support: 41287
+	Item: [1, 2, 3, 5, 7, 8, 9], Support: 41759
+	Item: [1, 2, 3, 5, 7, 8, 10], Support: 41803
+	Item: [1, 2, 3, 5, 7, 9, 10], Support: 41612
+	Item: [1, 2, 3, 5, 8, 9, 10], Support: 41773
+	Item: [1, 2, 3, 6, 7, 8, 9], Support: 41502
+	Item: [1, 2, 3, 6, 7, 8, 10], Support: 41701
+	Item: [1, 2, 3, 6, 7, 9, 10], Support: 41084
+	Item: [1, 2, 3, 6, 8, 9, 10], Support: 41439
+	Item: [1, 2, 3, 7, 8, 9, 10], Support: 41690
+	Item: [1, 2, 4, 5, 6, 7, 8], Support: 41801
+	Item: [1, 2, 4, 5, 6, 7, 9], Support: 41974
+	Item: [1, 2, 4, 5, 6, 7, 10], Support: 41837
+	Item: [1, 2, 4, 5, 6, 8, 9], Support: 42127
+	Item: [1, 2, 4, 5, 6, 8, 10], Support: 41877
+	Item: [1, 2, 4, 5, 6, 9, 10], Support: 41854
+	Item: [1, 2, 4, 5, 7, 8, 9], Support: 42088
+	Item: [1, 2, 4, 5, 7, 8, 10], Support: 41938
+	Item: [1, 2, 4, 5, 7, 9, 10], Support: 41942
+	Item: [1, 2, 4, 5, 8, 9, 10], Support: 42130
+	Item: [1, 2, 4, 6, 7, 8, 9], Support: 41978
+	Item: [1, 2, 4, 6, 7, 8, 10], Support: 41987
+	Item: [1, 2, 4, 6, 7, 9, 10], Support: 41678
+	Item: [1, 2, 4, 6, 8, 9, 10], Support: 41903
+	Item: [1, 2, 4, 7, 8, 9, 10], Support: 41997
+	Item: [1, 2, 5, 6, 7, 8, 9], Support: 41859
+	Item: [1, 2, 5, 6, 7, 8, 10], Support: 41802
+	Item: [1, 2, 5, 6, 7, 9, 10], Support: 41549
+	Item: [1, 2, 5, 6, 8, 9, 10], Support: 41867
+	Item: [1, 2, 5, 7, 8, 9, 10], Support: 41916
+	Item: [1, 2, 6, 7, 8, 9, 10], Support: 41620
+	Item: [1, 3, 4, 5, 6, 7, 8], Support: 41837
+	Item: [1, 3, 4, 5, 6, 7, 9], Support: 41964
+	Item: [1, 3, 4, 5, 6, 7, 10], Support: 41796
+	Item: [1, 3, 4, 5, 6, 8, 9], Support: 41969
+	Item: [1, 3, 4, 5, 6, 8, 10], Support: 41678
+	Item: [1, 3, 4, 5, 6, 9, 10], Support: 41724
+	Item: [1, 3, 4, 5, 7, 8, 9], Support: 42033
+	Item: [1, 3, 4, 5, 7, 8, 10], Support: 41894
+	Item: [1, 3, 4, 5, 7, 9, 10], Support: 41895
+	Item: [1, 3, 4, 5, 8, 9, 10], Support: 41869
+	Item: [1, 3, 4, 6, 7, 8, 9], Support: 41934
+	Item: [1, 3, 4, 6, 7, 8, 10], Support: 41933
+	Item: [1, 3, 4, 6, 7, 9, 10], Support: 41624
+	Item: [1, 3, 4, 6, 8, 9, 10], Support: 41795
+	Item: [1, 3, 4, 7, 8, 9, 10], Support: 41909
+	Item: [1, 3, 5, 6, 7, 8, 9], Support: 41742
+	Item: [1, 3, 5, 6, 7, 8, 10], Support: 41733
+	Item: [1, 3, 5, 6, 7, 9, 10], Support: 41448
+	Item: [1, 3, 5, 6, 8, 9, 10], Support: 41633
+	Item: [1, 3, 5, 7, 8, 9, 10], Support: 41766
+	Item: [1, 3, 6, 7, 8, 9, 10], Support: 41560
+	Item: [1, 4, 5, 6, 7, 8, 9], Support: 42095
+	Item: [1, 4, 5, 6, 7, 8, 10], Support: 41896
+	Item: [1, 4, 5, 6, 7, 9, 10], Support: 41946
+	Item: [1, 4, 5, 6, 8, 9, 10], Support: 42006
+	Item: [1, 4, 5, 7, 8, 9, 10], Support: 42071
+	Item: [1, 4, 6, 7, 8, 9, 10], Support: 41907
+	Item: [1, 5, 6, 7, 8, 9, 10], Support: 41845
+	Item: [2, 3, 4, 5, 6, 7, 8], Support: 41744
+	Item: [2, 3, 4, 5, 6, 7, 9], Support: 41802
+	Item: [2, 3, 4, 5, 6, 7, 10], Support: 41697
+	Item: [2, 3, 4, 5, 6, 8, 9], Support: 41880
+	Item: [2, 3, 4, 5, 6, 8, 10], Support: 41627
+	Item: [2, 3, 4, 5, 6, 9, 10], Support: 41683
+	Item: [2, 3, 4, 5, 7, 8, 9], Support: 42016
+	Item: [2, 3, 4, 5, 7, 8, 10], Support: 41873
+	Item: [2, 3, 4, 5, 7, 9, 10], Support: 41938
+	Item: [2, 3, 4, 5, 8, 9, 10], Support: 41960
+	Item: [2, 3, 4, 6, 7, 8, 9], Support: 41840
+	Item: [2, 3, 4, 6, 7, 8, 10], Support: 41945
+	Item: [2, 3, 4, 6, 7, 9, 10], Support: 41509
+	Item: [2, 3, 4, 6, 8, 9, 10], Support: 41712
+	Item: [2, 3, 4, 7, 8, 9, 10], Support: 41898
+	Item: [2, 3, 5, 6, 7, 8, 9], Support: 41632
+	Item: [2, 3, 5, 6, 7, 8, 10], Support: 41625
+	Item: [2, 3, 5, 6, 7, 9, 10], Support: 41304
+	Item: [2, 3, 5, 6, 8, 9, 10], Support: 41447
+	Item: [2, 3, 5, 7, 8, 9, 10], Support: 41746
+	Item: [2, 3, 6, 7, 8, 9, 10], Support: 41486
+	Item: [2, 4, 5, 6, 7, 8, 9], Support: 42030
+	Item: [2, 4, 5, 6, 7, 8, 10], Support: 41860
+	Item: [2, 4, 5, 6, 7, 9, 10], Support: 41870
+	Item: [2, 4, 5, 6, 8, 9, 10], Support: 42007
+	Item: [2, 4, 5, 7, 8, 9, 10], Support: 42037
+	Item: [2, 4, 6, 7, 8, 9, 10], Support: 41849
+	Item: [2, 5, 6, 7, 8, 9, 10], Support: 41752
+	Item: [3, 4, 5, 6, 7, 8, 9], Support: 42065
+	Item: [3, 4, 5, 6, 7, 8, 10], Support: 41858
+	Item: [3, 4, 5, 6, 7, 9, 10], Support: 41914
+	Item: [3, 4, 5, 6, 8, 9, 10], Support: 41843
+	Item: [3, 4, 5, 7, 8, 9, 10], Support: 42029
+	Item: [3, 4, 6, 7, 8, 9, 10], Support: 41920
+	Item: [3, 5, 6, 7, 8, 9, 10], Support: 41678
+	Item: [4, 5, 6, 7, 8, 9, 10], Support: 42094
+8-itemsets:
+	Item: [1, 2, 3, 4, 5, 6, 7, 8], Support: 24712
+	Item: [1, 2, 3, 4, 5, 6, 7, 9], Support: 24722
+	Item: [1, 2, 3, 4, 5, 6, 7, 10], Support: 24590
+	Item: [1, 2, 3, 4, 5, 6, 8, 9], Support: 24862
+	Item: [1, 2, 3, 4, 5, 6, 8, 10], Support: 24652
+	Item: [1, 2, 3, 4, 5, 6, 9, 10], Support: 24624
+	Item: [1, 2, 3, 4, 5, 7, 8, 9], Support: 24954
+	Item: [1, 2, 3, 4, 5, 7, 8, 10], Support: 24836
+	Item: [1, 2, 3, 4, 5, 7, 9, 10], Support: 24810
+	Item: [1, 2, 3, 4, 5, 8, 9, 10], Support: 24896
+	Item: [1, 2, 3, 4, 6, 7, 8, 9], Support: 24855
+	Item: [1, 2, 3, 4, 6, 7, 8, 10], Support: 24884
+	Item: [1, 2, 3, 4, 6, 7, 9, 10], Support: 24476
+	Item: [1, 2, 3, 4, 6, 8, 9, 10], Support: 24762
+	Item: [1, 2, 3, 4, 7, 8, 9, 10], Support: 24883
+	Item: [1, 2, 3, 5, 6, 7, 8, 9], Support: 24611
+	Item: [1, 2, 3, 5, 6, 7, 8, 10], Support: 24642
+	Item: [1, 2, 3, 5, 6, 7, 9, 10], Support: 24305
+	Item: [1, 2, 3, 5, 6, 8, 9, 10], Support: 24545
+	Item: [1, 2, 3, 5, 7, 8, 9, 10], Support: 24738
+	Item: [1, 2, 3, 6, 7, 8, 9, 10], Support: 24500
+	Item: [1, 2, 4, 5, 6, 7, 8, 9], Support: 25008
+	Item: [1, 2, 4, 5, 6, 7, 8, 10], Support: 24852
+	Item: [1, 2, 4, 5, 6, 7, 9, 10], Support: 24812
+	Item: [1, 2, 4, 5, 6, 8, 9, 10], Support: 24993
+	Item: [1, 2, 4, 5, 7, 8, 9, 10], Support: 25021
+	Item: [1, 2, 4, 6, 7, 8, 9, 10], Support: 24919
+	Item: [1, 2, 5, 6, 7, 8, 9, 10], Support: 24788
+	Item: [1, 3, 4, 5, 6, 7, 8, 9], Support: 24926
+	Item: [1, 3, 4, 5, 6, 7, 8, 10], Support: 24806
+	Item: [1, 3, 4, 5, 6, 7, 9, 10], Support: 24761
+	Item: [1, 3, 4, 5, 6, 8, 9, 10], Support: 24807
+	Item: [1, 3, 4, 5, 7, 8, 9, 10], Support: 24914
+	Item: [1, 3, 4, 6, 7, 8, 9, 10], Support: 24811
+	Item: [1, 3, 5, 6, 7, 8, 9, 10], Support: 24652
+	Item: [1, 4, 5, 6, 7, 8, 9, 10], Support: 25000
+	Item: [2, 3, 4, 5, 6, 7, 8, 9], Support: 24836
+	Item: [2, 3, 4, 5, 6, 7, 8, 10], Support: 24757
+	Item: [2, 3, 4, 5, 6, 7, 9, 10], Support: 24663
+	Item: [2, 3, 4, 5, 6, 8, 9, 10], Support: 24736
+	Item: [2, 3, 4, 5, 7, 8, 9, 10], Support: 24917
+	Item: [2, 3, 4, 6, 7, 8, 9, 10], Support: 24785
+	Item: [2, 3, 5, 6, 7, 8, 9, 10], Support: 24566
+	Item: [2, 4, 5, 6, 7, 8, 9, 10], Support: 24950
+	Item: [3, 4, 5, 6, 7, 8, 9, 10], Support: 24895
+9-itemsets:
+	Item: [1, 2, 3, 4, 5, 6, 7, 8, 9], Support: 11211
+	Item: [1, 2, 3, 4, 5, 6, 7, 8, 10], Support: 11114
+	Item: [1, 2, 3, 4, 5, 6, 7, 9, 10], Support: 10988
+	Item: [1, 2, 3, 4, 5, 6, 8, 9, 10], Support: 11142
+	Item: [1, 2, 3, 4, 5, 7, 8, 9, 10], Support: 11263
+	Item: [1, 2, 3, 4, 6, 7, 8, 9, 10], Support: 11175
+	Item: [1, 2, 3, 5, 6, 7, 8, 9, 10], Support: 10960
+	Item: [1, 2, 4, 5, 6, 7, 8, 9, 10], Support: 11331
+	Item: [1, 3, 4, 5, 6, 7, 8, 9, 10], Support: 11217
+	Item: [2, 3, 4, 5, 6, 7, 8, 9, 10], Support: 11158

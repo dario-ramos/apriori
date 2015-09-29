@@ -1,0 +1,50 @@
+How to run
+----------
+
+1. Open a terminal.
+2. Navigate to where Apriori.jar is located (in the dist subfolder of the
+   Apriori root folder).
+3. Enter this command:
+
+    java -jar Apriori.jar
+    
+   (In a Windows environment, this may require to add an absolute path to java.exe
+    to the PATH environment variable)
+
+Configuration
+-------------
+    
+To edit configuration properties, open configuration.properties (located in the same
+directory as Apriori.jar). Each property is explained below:
+
+input_file: Absolute path to the Apriori algorithm input data. 
+    -It has to be a text file.
+    -Each line must contain a sequence of integer numbers separared by commas.
+    -The last line must NOT end with a newline.
+
+output_file: Absolute path to the Apriori algorithm output data.
+    -It does not have to exist previously. If it does, it will be overwritten.
+    -It is a text file.
+    -It lists k-itemsets starting from 1-itemset, upto the last non empty one.
+     Only items with support above the minimum are shown.
+
+task: An integer value which determines which task the Apriori program will
+      execute. Possible values and their meaning:
+      
+      1: Run Apriori algorithm, reading input data from input_file and 
+         writing the results to output_file.
+      2: Hash tree test. Outputs results to console. Not configurable.
+      3: Integer basket data generation: Randomly generates a certain amount
+         of transactions, with a given maximum item count, and writes them
+         to a text file with the same format as input_file.
+
+min_support: The only parameter of the Apriori algorithm. It's an integer,
+             and represents the minimum support count for an itemset to be
+             considered a candidate.
+
+basket_data_output_file: Absolute path for the basket data generation task.
+
+basket_data_max_tx_size: Maximum transaction size for the basket data
+                         generation task.
+
+basket_data_tx_count: The basket generation task will create these many tasks.
