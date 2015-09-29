@@ -1,0 +1,8 @@
+One of the given subjects will be chosen and implemented using any programming language. All the given topics are explained in the files added to this project. The project should also include sample input file, howtorun.txt and a readme.txt.
+
+CLARA algorithm(Section 2.3) 
+CLARANS algorithm(Section 3.2)
+BIRCH(Section 5)
+GSP algorithm(Section 3)
+Apriori Algorithm(Figure 1 and Figure 2 )
+ISOMAP
